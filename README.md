@@ -12,12 +12,20 @@ The compiled machine code file used for SCM Burning / 编译的用于单片机�
 电路连接图
 
 ## Circuit Connections / 电路连接方法
-Connect the SCM minimum sys normally
-Connect the Pin 1.1 with the IR LED cathode
-Connect the Pin 3.2 with a button switch
+Connect the SCM minimum sys normally;
+
+Connect the Pin 1.1 with the IR LED cathode;
+
+Connect the Pin 3.2 with a button switch;
+
 View the file "CircuitDiagram.jpg" for detailed connection method.
 
+
+
 正常连接单片机最小系统
+
 P1.1引脚接红外发光二极管阴极
+
 P3.2引脚接按键开关
+
 具体连接方法参阅CircuitDiagram文件
